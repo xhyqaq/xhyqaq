@@ -2,47 +2,31 @@
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=xhyqaq&show_icons=true&theme=radical" />
 
-## 👨‍💻 Backend Engineer
+### 👨‍💻 Backend Engineer
 
 - 🔭 I'm currently exploring AI application projects
 - 💬 Ask me about backend development and software engineering
 - 📫 How to reach me: 
+  - Email: xhyovo@qq.com
   - Bilibili: [@xhy](https://space.bilibili.com/152686439)
-  - Paid Community: [code.xhyovo.cn](https://code.xhyovo.cn/)
+  - Gitee: [@XhyQAQ](https://gitee.com/XhyQAQ/)
 
 ### 🌐 My Communities
-- **[Code XHYovo](https://code.xhyovo.cn/)** - My paid developer community with ![社区成员](https://img.shields.io/badge/社区成员-3600-blue?style=flat-square) members
-
-
+- **[Community](https://code.xhyovo.cn/)** - Code Community
 - **[Bilibili](https://space.bilibili.com/152686439)** - Sharing technical tutorials and insights
 
 ### 📺 Bilibili Stats
-![Bilibili Followers](https://img.shields.io/badge/Followers-10K+-blueviolet?style=for-the-badge&logo=bilibili&logoColor=white)
-![Bilibili Views](https://img.shields.io/badge/Views-1M+-blue?style=for-the-badge&logo=bilibili&logoColor=white)
+[![Followers](https://img.shields.io/badge/FOLLOWERS-9.5K-blueviolet?style=for-the-badge&labelColor=gray&logo=bilibili)](https://space.bilibili.com/152686439)
+[![Likes](https://img.shields.io/badge/LIKES-13K-ff69b4?style=for-the-badge&labelColor=gray&logo=bilibili)](https://space.bilibili.com/152686439)
+[![Views](https://img.shields.io/badge/VIEWS-696K-blue?style=for-the-badge&labelColor=gray&logo=bilibili)](https://space.bilibili.com/152686439)
 
 ### 🛠 Languages and Tools:
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&borderRadius=15&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&borderRadius=15&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&borderRadius=15&logo=go&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&borderRadius=15&logo=github&logoColor=white)
+[![Gitee](https://img.shields.io/badge/-Gitee-C71D23?style=flat&borderRadius=15&logo=gitee&logoColor=white)](https://gitee.com/XhyQAQ/)
 
-
-### 📊 GitHub Stats:
-<div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhyqaq&layout=compact&theme=radical" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=xhyqaq&theme=radical" />
-</div>
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xhyqaq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 👀 Visitor Count
-<img src="https://profile-counter.glitch.me/xhyqaq/count.svg" />
-
----
-
-⭐️ From [xhyqaq](https://github.com/xhyqaq)
 
 
 
